@@ -1,0 +1,36 @@
+﻿{
+  "name": " Fast_add_and_leave_VK",
+  "description": "Быстрая добавлялка и ливалка в беседе ВК",
+  "repository": "https://github.com/Cl0ckHvH/Fast_add_and_leave_VK",
+  "env": {
+    "token": {
+      "description": "Токен сообщества ВКонтакте"
+    },
+    "user_id": {
+      "description": "Ваш логин"
+    },
+    "user_password": {
+      "description": "Ваш пароль"
+    },
+    "ID_user_to_add": {
+      "description": "ID пользователя, которого хотите добавить"
+    },
+    "ID_your": {
+      "description": "Ваш ID"
+    },
+    "ID_chat": {
+      "description": "ID чата"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}

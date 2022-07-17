@@ -1,0 +1,3 @@
+vk.py-1.0.0a6==1.0.0
+toml
+urllib3
