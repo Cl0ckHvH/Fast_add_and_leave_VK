@@ -1,4 +1,4 @@
-<h1 align="center">Быстрая добавлялка и ливалка в беседе ВК</h1>
+<h1 align="center">НОВЫЙ БОТ ТУТ: <a href="https://github.com/Cl0ckHvH/VKB_AlwaysInConversation">КЛИК</a></h1>
 <p align="center">
     <img alt="Made with Python" src="https://img.shields.io/badge/Made%20with-Python-%23FFD242?logo=python&logoColor=white"></img>
 </p>
